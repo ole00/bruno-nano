@@ -6,7 +6,7 @@ Arduino UNO breakout board for NANO style MCU boards
 This PCB allows you to experiment with various Arduino UNO shields while using an Arduino NANO style
 board. The picture above uses a cheap LGT8F328P based NANO board.
 
-NANO has - compared to UNO - two extra pins: A6 and A7. These are exposed for to UNO headers next to
+NANO has - compared to UNO - two extra pins: A6 and A7. These are exposed to UNO pin header, next to
 IOREF pin.
 
 Capacitor C1 is a bypass capacitor for 5V rail, use 10 to 47uF capacitor or leave the footprint unpopulated.
